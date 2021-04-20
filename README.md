@@ -1,8 +1,8 @@
-Project Title: Uptime-Monitoring-Application
-Brief Description: A restful API to monitor up or down time of user defined links.
-Technologies: I will use Raw Node js to build this Application. As my only concern is to develope my raw node.js skill i will use File System for databas.
+**Project Title: Uptime-Monitoring-Applicatin**
+**Brief Description: A restful API to monitor up or down time of user defined links.**
+**Technologies: I will use Raw Node js to build this Application. As my only concern is to develope my raw node.js skill i will use File System for databas.**
 
-#Features:
+**Features:**
 Create,Update,Delete User
 Token Based Authentication
 Login,Logout,Sign up
