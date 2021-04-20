@@ -1,4 +1,4 @@
-# Uptime Monitoring Applicatin
+# Uptime Monitoring Application
 ###  A restful API to monitor up or down time of user defined links
 
 ## Features
