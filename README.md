@@ -10,4 +10,4 @@
 * Check Up/Down time of the given Links
 
 ## Tech
-I will use Raw Node js to build this Application. As my only concern is to develope my raw node.js skill i will use File System as my database.
+I will use Raw Node js to build this Application. As my only concern is to develop my raw node.js skill I will use File System as my database.
